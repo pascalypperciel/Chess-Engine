@@ -1,0 +1,29 @@
+{
+    "ChessAgent": {
+        "checkpoints": [
+            {
+                "steps": 47,
+                "file_path": "results\\Test10\\ChessAgent\\ChessAgent-47.onnx",
+                "reward": -218.0,
+                "creation_time": 1673951314.2369008,
+                "auxillary_file_paths": [
+                    "results\\Test10\\ChessAgent\\ChessAgent-47.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 47,
+            "file_path": "results\\Test10\\ChessAgent.onnx",
+            "reward": -218.0,
+            "creation_time": 1673951314.2369008,
+            "auxillary_file_paths": [
+                "results\\Test10\\ChessAgent\\ChessAgent-47.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

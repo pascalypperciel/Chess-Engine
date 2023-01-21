@@ -58,3 +58,27 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+./First Version, using C#/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cublasLt64_11.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cudnn_cnn_infer64_8.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cudnn_ops_infer64_8.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cufft64_10.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cusolver64_10.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cusolverMg64_10.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/cusparse64_11.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/dnnl.lib
+./First Version, using C#/venv/Lib/site-packages/torch/lib/mkldnn.lib
+./First Version, using C#/venv/Lib/site-packages/torch/lib/torch_cpu.dll
+./First Version, using C#/venv/Lib/site-packages/torch/lib/torch_cuda.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cudnn_cnn_infer64_8.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cudnn_ops_infer64_8.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cufft64_10.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cusolver64_10.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cusolverMg64_10.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cusparse64_11.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/dnnl.lib
+First Version, using C\#/venv/Lib/site-packages/torch/lib/mkldnn.lib
+First Version, using C\#/venv/Lib/site-packages/torch/lib/cublasLt64_11.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/torch_cpu.dll
+First Version, using C\#/venv/Lib/site-packages/torch/lib/torch_cuda.dll
+First Version, using C\#/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/hostmac/lld
